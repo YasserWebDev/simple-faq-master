@@ -114,3 +114,26 @@ hr {
         
     }      
 }
+.author-info {
+font-family: "Inter";
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+
+  padding: 15px 10px;
+  border-top: 1px solid #ddd;
+  background-color: #f9f9f9;
+}
+
+.author-info a {
+  color: #0073e6;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.author-info a:hover {
+  text-decoration: underline;
+  color: #005bb5;
+}
+
+
